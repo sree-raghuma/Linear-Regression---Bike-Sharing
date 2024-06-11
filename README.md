@@ -1,2 +1,2 @@
 # Linear-Regression---Bike-Sharing
-Multiple Linear regression model for the prediction of demand for shared bikes.
+Linear Regression Model to predict the demand for shared bikes. With the increasing popularity of bike-sharing programs, accurately forecasting demand is crucial for optimizing bike distribution and ensuring a smooth experience for users.
